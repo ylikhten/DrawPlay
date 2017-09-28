@@ -1,1 +1,1 @@
-Cat
+Program generates a cat without ears.
