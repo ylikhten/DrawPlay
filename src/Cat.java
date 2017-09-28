@@ -44,6 +44,8 @@ public class Cat {
 		g2.setColor(Color.black);
 		//Draw Whisker
 		g2.drawLine(120, 110, 170, 100);
+		g2.drawLine(120, 113, 170, 113);
+		g2.drawLine(120, 116, 170, 126);
 		// Meow text appears below cat head, +10 places below 
 		// so it doesn't overlap the drawing
 		g2.drawString("Meow, Meow, Meow...", catX, catY+HEAD_DIMENSION+10);	
